@@ -1,5 +1,6 @@
 aniso8601==6.0.0
 astroid==2.2.5
+dj-database-url==0.5.0
 Django==2.2.1
 django-cors-headers==3.0.2
 ez-setup==0.9
